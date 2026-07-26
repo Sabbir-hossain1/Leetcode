@@ -1,6 +1,6 @@
 # Solution 1
 ##from collections import defaultdict
-##
+## when sort then all anagram word become same, hence use one sorted as key and keep others word as list 
 ##class Solution:
 ##    def groupAnagram(self, strs):
 ##        groups = defaultdict(list)
